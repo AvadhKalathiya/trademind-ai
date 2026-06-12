@@ -20,6 +20,8 @@
 
 ### 🌐 Live Demo
 
+https://avadh-trademind-ai.streamlit.app/
+
 Coming Soon
 
 ### 💻 GitHub Repository
